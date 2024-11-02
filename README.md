@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning nodejs<br>🎯 Goals: improvement</p>
+<p align="left">📚 I'm currently learning Software development<br>🎯 Goals: improvement</p>
 
 ###
 
